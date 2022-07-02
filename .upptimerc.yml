@@ -10,6 +10,10 @@ sites:
     url: https://mpr.makedeb.org
   - name: makedeb ProGet Instance
     url: https://proget.makedeb.org
+  - name: makedeb Minecraft Server
+    check: "tcp-ping"
+    url: minecraft.makedeb.org
+    port: 25565
 
 status-website:
   cname: status.makedeb.org
