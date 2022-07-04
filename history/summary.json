@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 243,
-    "timeDay": 311,
-    "timeWeek": 243,
-    "timeMonth": 243,
-    "timeYear": 243,
+    "time": 252,
+    "timeDay": 282,
+    "timeWeek": 252,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 247,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "time": 224,
+    "timeDay": 242,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 130,
-    "timeDay": 211,
-    "timeWeek": 130,
-    "timeMonth": 130,
-    "timeYear": 130,
+    "time": 171,
+    "timeDay": 217,
+    "timeWeek": 171,
+    "timeMonth": 171,
+    "timeYear": 171,
     "dailyMinutesDown": {}
   },
   {
@@ -59,16 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/proget.makedeb.org",
     "slug": "makedeb-pro-get-instance",
     "status": "up",
-    "uptime": "98.79%",
+    "uptime": "98.82%",
     "uptimeDay": "97.98%",
-    "uptimeWeek": "98.79%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
-    "time": 317,
-    "timeDay": 435,
-    "timeWeek": 317,
-    "timeMonth": 317,
-    "timeYear": 317,
+    "uptimeWeek": "98.82%",
+    "uptimeMonth": "98.82%",
+    "uptimeYear": "98.82%",
+    "time": 335,
+    "timeDay": 399,
+    "timeWeek": 335,
+    "timeMonth": 335,
+    "timeYear": 335,
     "dailyMinutesDown": {
       "2022-07-04": 29
     }
@@ -78,17 +78,19 @@
     "url": "minecraft.makedeb.org",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "makedeb-minecraft-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 44,
-    "timeDay": 55,
-    "timeWeek": 44,
-    "timeMonth": 44,
-    "timeYear": 44,
-    "dailyMinutesDown": {}
+    "time": 47,
+    "timeDay": 53,
+    "timeWeek": 47,
+    "timeMonth": 47,
+    "timeYear": 47,
+    "dailyMinutesDown": {
+      "2022-07-04": 0
+    }
   }
 ]
