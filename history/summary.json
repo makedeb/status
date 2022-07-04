@@ -58,18 +58,20 @@
     "url": "https://proget.makedeb.org",
     "icon": "https://favicons.githubusercontent.com/proget.makedeb.org",
     "slug": "makedeb-pro-get-instance",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 251,
-    "timeDay": 642,
+    "timeDay": 447,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-04": 0
+    }
   },
   {
     "name": "makedeb Minecraft Server",
